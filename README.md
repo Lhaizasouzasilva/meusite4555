@@ -1,4 +1,4 @@
-Claro! Aqui está o código HTML ajustado e pronto para ser usado como um site no GitHub Pages:
+
 
 ```html
 <!DOCTYPE html>
@@ -69,4 +69,3 @@ Claro! Aqui está o código HTML ajustado e pronto para ser usado como um site n
 </html>
 ```
 
-Este código HTML agora está ajustado e pronto para ser usado como um site no GitHub Pages. Certifique-se de substituir os estilos e conteúdos conforme necessário.
